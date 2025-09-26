@@ -1,11 +1,9 @@
-<div style="height: 75px;">
-    <img alt="nTier Training Logo" src="./.assets/2025-nTier-Logo-Regular-EPS.png" />
-</div>
+![nTier Training Logo](./.assets/2025-nTier-Logo-Regular-EPS.png)
 <br>
 
 # Hello World Node.js App
 
-By \<replace with your name\>
+By \<replace with yuur ame\>
 
 ## Module 1 Starter Project
 
