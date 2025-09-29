@@ -3,7 +3,7 @@
 
 # Hello World Node.js App
 
-By \<replace with yuur ame\>
+By \<replace with your name\>
 
 ## Module 1 Starter Project
 
